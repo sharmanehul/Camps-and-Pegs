@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🏕️ YelpCamp 🌲</h1>
+  <h1>🏕️ Camps & Pegs🌲</h1>
 </div>
 
 <div align="center">
